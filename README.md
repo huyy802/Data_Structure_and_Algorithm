@@ -7,5 +7,5 @@ Just a simple repository for practicing Data Structures and Algorithms. Solution
 Clone the repository to your local machine and start practicing!
 
 ```bash
-git clone https://github.com/yourusername/Data_Structure_and_Algorithm.git
+git clone https://github.com/huynnq02/Data_Structure_and_Algorithm.git
 cd Data_Structure_and_Algorithm
